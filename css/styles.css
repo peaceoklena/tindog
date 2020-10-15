@@ -1,0 +1,87 @@
+#title {
+  background-color: #ff4c68
+}
+body{
+  font-family: 'Montserrat', sans-serif;
+  color: #fff;
+}
+h1 {
+  font-family:'Montserrat', sans-serif;
+  size: 3.5rem;
+  line-height: 1.7;
+  color: white;
+}
+h2{
+  font-family: 'Montserrat', sans-serif;
+  line-height: 1.5;
+  font-size: 3rem;
+
+}
+p {
+  color: grey;
+}
+
+/* TODO: create custom class */
+.navbar {
+  padding: 4% 0 0 0;
+}
+
+/* TODO: create custom class */
+.navbar-brand {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 2.5rem;
+  line-height: bold;
+}
+
+/* TODO: create custom class */
+.nav-item{
+  padding: 0 18px;
+  font-size: 1rem;
+}
+
+/* TODO: create custom class */
+.btn{
+  margin: 5% 3% 5% 0;
+}
+
+.title-image-wrapper{
+    position: relative;
+}
+
+.hero-wrapper {
+  padding: 40px 0 70px 0;
+}
+
+.title-image {
+  width: 50%;
+
+  transform:rotate(25deg);
+}
+.features {
+  text-align: center;
+  margin: 5px;
+  margin-top: 10px;
+  padding: 160px;
+}
+.icon{
+  color:#ef8172;
+  margin-bottom: 10px;
+
+}
+.icon:hover{
+  color: #ff4c68;
+}
+#testimonials{
+  padding: 15% 3%;
+  text-align: center;
+  background-color: #ef8172;
+}
+.testimonial-image{
+  width:10%;
+  border-radius: 100%;
+  margin: 20px;
+}
+#press{
+  text-align: center;
+  background-color: #ef8172;
+}
